@@ -1,6 +1,8 @@
 # diving-maths
 Jupyter notebooks for diving maths
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ann-kilzer/diving-maths/HEAD)
+
 
 ## Disclaimer
 
