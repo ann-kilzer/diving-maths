@@ -1,0 +1,3 @@
+numpy
+matplotlib
+# add whatever packages you need
